@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO HELLO I am ALdjon Cayl P. Dela Cruz I am a BSIT major 
 
 <!--
 **BitACDC/BitACDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
