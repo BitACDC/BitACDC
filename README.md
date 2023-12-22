@@ -1,3 +1,4 @@
+![Bit and Arcade(PC version)](https://github.com/BitACDC/BitACDC/assets/154488752/28119f98-8526-4d69-8db3-9fed93302065)
 <h1 align="center">Hi 👋, I'm Aldjon Cayl P. Dela Cruz</h1>
 <h3 align="center">I am currently striving to be a IT programmer</h3>
 
