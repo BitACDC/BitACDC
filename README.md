@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://drive.google.com/file/d/11EC2jGX-VZoiU2s8SH4rjG81XHFMZvav/view?usp=sharing))]
 <h1 align="center">Hi 👋, I'm Aldjon Cayl P. Dela Cruz</h1>
 <h3 align="center">I am currently striving to be a IT programmer</h3>
 
