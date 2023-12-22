@@ -9,6 +9,7 @@
 
   
 - **I also like to listen to music especially when i'm doing mundane tasks such as schoolworks, commuting, or just calming myself**
+  
   ![Screenshot 2023-12-22 211042](https://github.com/BitACDC/BitACDC/assets/154488752/cd370d47-9bed-4053-827c-a89465d18711)
 
   
