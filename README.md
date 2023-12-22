@@ -2,8 +2,11 @@
 <h1 align="center">HELLO HELLO!! (0w0)/ I'm Aldjon Cayl P. Dela Cruz</h1>
 <h3 align="center">I am currently striving to be a IT programmer</h3>
 
+
 <p align="center">
-  ![coding](https://github.com/BitACDC/BitACDC/assets/154488752/7fa723f9-68d0-44c3-a7e2-5db3f9781f99)
+  <img width="320" height="180" src="[https://picsum.photos/460/300](https://github.com/BitACDC/BitACDC/assets/154488752/7fa723f9-68d0-44c3-a7e2-5db3f9781f99)">
+</p>
+
 
 - 📫 How to reach me **aldjoncayldelacruz@gmail.com**
 
