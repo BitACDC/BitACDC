@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img src="YOUR_BACKGROUND_IMAGE_URL_HERE" alt="Background Banner" width="100%" style="border-radius: 16px;" />
-
-<br/>
+<img src="https://github.com/user-attachments/assets/20378462-5a73-4daf-b354-b4723d774438" alt="Background Banner" width="100%" style="border-radius: 16px;" />
 
 <!-- ─── NAME & TITLE BLOCK ─────────────────────────────────────────────── -->
 
