@@ -116,19 +116,6 @@ dev = {
 
 ---
 
-<!-- ─── GITHUB STATS ──────────────────────────────────────────────────────── -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BitACDC&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitACDC&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=00D4FF" height="160" />
-
-</div>
-
----
-
 <!-- ─── SELECTED PROJECTS ─────────────────────────────────────────────────── -->
 
 ## 🚀 Selected Projects
