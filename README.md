@@ -5,14 +5,14 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8058475a-3f74-473c-9b57-dcd85e46cd57" alt="Background Banner" width="100%" style="border-radius: 16px;" />
+<img src="YOUR_BACKGROUND_IMAGE_URL_HERE" alt="Background Banner" width="100%" style="border-radius: 16px;" />
 
 <br/>
 
 <!-- ─── NAME & TITLE BLOCK ─────────────────────────────────────────────── -->
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Software+Developer;IT+Student+%40+MCL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aldjon+Cayl+%F0%9F%91%8B;Software+Developer;IT+Student+%40+MCL" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -38,6 +38,7 @@ Aspiring software developer passionate about creating **innovative applications 
 dev = {
     "school"   : "Mapúa Malayan Colleges Laguna",
     "degree"   : "BS Information Technology",
+    "name"     : "Aldjon Cayl P. Dela Cruz",
     "role"     : "Software Developer",
     "passion"  : ["Building apps", "Solving real-world problems", "Clean UI/UX"],
     "status"   : "Open to opportunities 🚀"
@@ -244,15 +245,14 @@ dev = {
 
 <div align="center">
 
-<!-- Replace # with your actual links -->
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/aldjon-cayl-dela-cruz-5a269b401">
+  <img src="https://img.shields.io/badge/Aldjon_Cayl_Dela_Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:aldjoncayldelacruz@gmail.com">
+  <img src="https://img.shields.io/badge/aldjoncayldelacruz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/BitACDC">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/BitACDC-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
